@@ -1,4 +1,4 @@
-name: Flutter CI/Build
+name: Flutter CI
 
 on:
   push:
